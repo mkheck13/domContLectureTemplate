@@ -1,0 +1,10 @@
+body {
+    background-color: beige;
+}
+
+.newStyle {
+    color: seagreen;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 2.5rem;
+}
